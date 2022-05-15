@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  background-image:url("img.jpg");
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    padding:0;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: whitesmoke;
+  
+  }
+  
+  .topnav a {
+    float: left;
+    color: blue;
+    text-align: center;
+    padding: 25px 16px;
+  padding-right:20px;
+    text-decoration: none;
+    font-size: 19px;
+  }
+  
+  .topnav a:hover {
+    background-color: pink;
+    color: black;
+  }
+  .topnav a.pick
+  {
+  float: right;
+  }
+  .topnav a.act
+  {
+  padding-left:40px;
+  }
+  .order
+  {
+  font-size:50px;
+  font-family: Arial, Helvetica, sans-serif;
+  border-top-left-radius: 150px;
+  border-bottom-left-radius: 150px;
+  border-top-right-radius: 150px;
+  border-bottom-right-radius:150px ;
+  border-color: green 20px;
+  color:whitesmoke;
+  text-align:center;
+  background-color:blue;
+  opacity:0.5;
+  margin:50px;
+  margin-bottom: 30px;
+  margin-right:400px;
+  margin-left:400px;
+  padding:20px;
+  }
+  .but
+  {
+    color: whitesmoke;
+    text-align: center;
+  padding:20px;
+  text-decoration: none;
+    font-size: 19px;
+  }
+  .but a:hover {
+    color: black;
+  }
+  .img
+  {
+    width: 80px;
+    height: 70px;
+    padding-top: 5px;
+    float: left;
+    padding-left: 30px;
+    padding-right: 200px;
+  }
+  .img1
+  {
+    width: 80px;
+    height: 50px;
+    float:right
+  }
+.smart
+{
+float:left;
+font-size:50px;
+margin-top:50px;
+padding:20px;
+font-style:
+}
+.para
+{
+padding-left:550px;
+font-size:20px;
+color:blue;
+}
+.para2
+{
+padding-left:400px;
+}
